@@ -54,10 +54,10 @@ export default function Home() {
   <img
     src="/logo-1.jpeg"
     alt="Logo Graha Kencana"
-    className="absolute left-0 top-1/2 h-[100px] w-[100px] -translate-y-1/2 object-contain"
+    className="absolute left-0 top-1/2 h-[65px] w-[65px] -translate-y-1/2 object-contain"
   />
 
-  <div className="ml-[75px]">
+  <div className="ml-[90px]">
     <h1 className="text-xl font-bold">
       Graha Kencana
     </h1>
