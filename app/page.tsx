@@ -8,8 +8,8 @@ export default function Home() {
   const photos = [
     {
       src: "/rumah-depan.jpeg",
-      title: "Rumah Graha Kencana",
-      description: "Tampak depan rumah Graha Kencana",
+      title: "Rumah Subsidi Tipe 27/60",
+      description: "Rumah desain minimalis lokasi strategis 100 meter dari jalan raya provinsi",
     },
     {
       src: "/masjid.jpeg",
