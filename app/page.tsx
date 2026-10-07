@@ -374,7 +374,7 @@ export default function Home() {
 
           <p className="mx-auto mt-3 max-w-xl text-green-50">
             Hubungi kami untuk mendapatkan informasi harga,
-            promo dan ketersediaan unit.
+            promo pricelist dan ketersediaan unit.
           </p>
 
           <a
