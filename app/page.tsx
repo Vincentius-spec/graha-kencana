@@ -116,17 +116,21 @@ export default function Home() {
             </p>
 
             <h2 className="text-4xl font-bold leading-tight md:text-5xl">
-              Rumah Nyaman untuk
-
-              <span className="block text-green-700">
-                Masa Depan Keluarga
-              </span>
-            </h2>
-
-            <p className="mt-5 text-lg leading-relaxed text-gray-600">
-              Hunian strategis dengan lingkungan nyaman dan berbagai
-              kemudahan untuk keluarga Anda.
-            </p>
+  Perumahan Subsidi
+  <span className="block text-green-700">
+    Graha Kencana
+  </span>
+  <span className="block">
+    Hunian Nyaman untuk Keluarga
+  </span>
+</h2>
+            <p  className="mt-5 text-lg leading-relaxed text-gray-600">
+  Temukan rumah subsidi Graha Kencana tipe 27/60
+  dengan desain minimalis, lingkungan perumahan yang
+  nyaman, serta akses sekitar 100 meter dari jalan
+  raya provinsi. Hubungi tim marketing kami untuk
+  informasi harga, promo, persyaratan, dan ketersediaan unit.
+</p>
 
             <div className="mt-7 flex flex-wrap gap-3">
 
@@ -245,16 +249,15 @@ export default function Home() {
               TENTANG KAMI
             </p>
 
-            <h2 className="mt-1 text-3xl font-bold">
-              Graha Kencana
-            </h2>
-
             <p className="mt-5 text-lg leading-relaxed text-gray-700">
-              Graha Kencana hadir sebagai pilihan hunian bagi keluarga
-              yang menginginkan rumah nyaman dengan lokasi yang strategis.
-              Lingkungan perumahan dirancang untuk memberikan suasana
-              tempat tinggal yang aman dan nyaman.
-            </p>
+  Graha Kencana merupakan pilihan hunian bagi keluarga
+  yang mencari rumah subsidi dengan desain minimalis
+  tipe 27/60. Nikmati lingkungan perumahan yang nyaman,
+  fasilitas masjid, serta suasana kebersamaan warga.
+  Hubungi tim marketing Graha Kencana untuk mengetahui
+  informasi harga, promo yang berlaku, persyaratan
+  pembelian, dan ketersediaan rumah.
+</p>
 
           </div>
 
